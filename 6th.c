@@ -1,3 +1,4 @@
+//Write a program to swap two numbers using a third variable.
 #include <stdio.h>
 int main() {
     int x;
@@ -15,4 +16,5 @@ int main() {
     printf("After swap 1st:%d\n",x);
     printf("After swap 2nd:%d\n",y);
     return 0;
+
 };
