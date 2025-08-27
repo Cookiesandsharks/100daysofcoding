@@ -1,3 +1,4 @@
+//Write a program to input a character and check whether it is a vowel or consonant using if–else.
 #include <stdio.h> 
 
 int main() {
@@ -13,4 +14,5 @@ int main() {
     }
 
     return 0; 
+
 }
