@@ -1,3 +1,4 @@
+//Write a program to calculate the area and circumference of a circle given its radius
 #include <stdio.h>
 int main() {
     float radius;
@@ -10,4 +11,5 @@ int main() {
     area=3.14*radius*radius;
     printf("area of acircle is:%f\n", area);
     return 0;
+
 };
